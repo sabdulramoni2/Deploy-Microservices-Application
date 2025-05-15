@@ -1,13 +1,23 @@
-<p align="center">
-<img src="/src/frontend/static/icons/Hipster_HeroLogoMaroon.svg" width="300" alt="Online Boutique" />
-</p>
+# Helm-Demo-Managed-K8s-cluster
 
-![Continuous Integration](https://github.com/GoogleCloudPlatform/microservices-demo/workflows/Continuous%20Integration%20-%20Main/Release/badge.svg)
 
+## **Project Overview**
 **Online Boutique** is a cloud-first microservices demo application.
 Online Boutique consists of an 11-tier microservices application. The application is a
 web-based e-commerce app where users can browse items,
 add them to the cart, and purchase them.
+This project demonstrates deploying a managed K8s cluster on Linode Kubernetes engine, deployed a replicated database and configure its persistence and make it accessible through a UI client browser using ingress.
+
+---
+
+## **Features**
+- Created K8s cluster on Linode Kubernetes Engine
+- Deployed replicated MongoDB (StatefulSet using Helm Chart) and configured Data Persistence with Linode Block Storage
+- Deployed MongoExpress (Deployment and Service)
+- Deployed NGINX Ingress Controller as Loadbalancer (using Helm Chart)
+- Configured Ingress rule
+
+
 
 Google uses this application to demonstrate the use of technologies like
 Kubernetes, GKE, Istio, Stackdriver, and gRPC. This application
