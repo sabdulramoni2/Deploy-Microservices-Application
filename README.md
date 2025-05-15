@@ -5,11 +5,8 @@
 
 
 ## **Project Overview**
-**Online Boutique** is a cloud-first microservices demo application.
-Online Boutique consists of an 11-tier microservices application. The application is a
-web-based e-commerce app where users can browse items,
-add them to the cart, and purchase them.
-This project demonstrates deploying a managed K8s cluster on Linode Kubernetes engine, deployed a replicated database and configure its persistence and make it accessible through a UI client browser using ingress.
+**Online Boutique** is a cloud-first microservices demo application. Online Boutique consists of an 11-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.
+
 
 ---
 
