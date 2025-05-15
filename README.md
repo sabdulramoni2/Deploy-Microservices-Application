@@ -36,9 +36,7 @@
   ![image](https://github.com/user-attachments/assets/67c5b901-6937-4918-9632-402c913acb44)
 
 
-- Created “microservices” Helm Chart
-- Created a namespace for the  microservice deployment
-- Deployed the microservices via the deployment file.
+
 
   ![image](https://github.com/user-attachments/assets/bae43744-ea7e-46f8-bd22-4deec6bf6d1c)
 
