@@ -28,7 +28,9 @@ This project demonstrates deploying a managed K8s cluster on Linode Kubernetes e
 
   ![image](https://github.com/user-attachments/assets/bd8c7ded-787c-4751-857a-4a2428b8307d)
 
-
+- Set permission for the kubeconfig file
+  
+  ![image](https://github.com/user-attachments/assets/67c5b901-6937-4918-9632-402c913acb44)
 
 
 - Created “microservices” Helm Chart
