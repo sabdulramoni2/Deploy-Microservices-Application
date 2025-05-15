@@ -11,9 +11,12 @@
 ---
 
 ## **Features**
-- Created “microservices” Helm Chart
-- Created values.yaml files for each microservice
-- Created “redis” Helm Chart and values file for it
+- Created YAML file with 11 Deployment and corresponding Service manifests
+- Created a K8s cluster with 3 Worker Nodes on Linode
+- Connected to the cluster
+- Created a Namespace and deployed all the micro services into it
+- Accessed Online Shop with Browser
+
 
 
 ## **Features**
