@@ -14,6 +14,26 @@ This project demonstrates deploying a managed K8s cluster on Linode Kubernetes e
 - Created “microservices” Helm Chart
 - Created values.yaml files for each microservice
 - Created “redis” Helm Chart and values file for it
+
+
+## **Features**
+- Created a Linode cluster
+
+  ![image](https://github.com/user-attachments/assets/29ab5b29-fe39-4f8e-b442-d083aa8994f5)
+
+  ![image](https://github.com/user-attachments/assets/f0cd3160-a676-428d-b460-205a41deb1ef)
+
+
+  ![image](https://github.com/user-attachments/assets/8021b1df-f148-4ba9-aa0c-93456e0659e7)
+
+  ![image](https://github.com/user-attachments/assets/bd8c7ded-787c-4751-857a-4a2428b8307d)
+
+
+
+
+- Created “microservices” Helm Chart
+- Created values.yaml files for each microservice
+- Created “redis” Helm Chart and values file for it
   
 
 
