@@ -35,7 +35,7 @@
   
   ![image](https://github.com/user-attachments/assets/67c5b901-6937-4918-9632-402c913acb44)
 
-
+- Created a K8s cluster with 3 Worker Nodes on Linode
 - Connected to the cluster
 - Created a Namespace and deployed all the micro services into it
 
@@ -47,8 +47,8 @@
   ![image](https://github.com/user-attachments/assets/a0df4032-be27-4423-ba94-a10451257dda)
 
 
-
-
+- Accessed Online Shop with Browser
+  ![image](https://github.com/user-attachments/assets/47ea8898-585e-44e9-a5b9-cd88775d47de)
 
 
 
