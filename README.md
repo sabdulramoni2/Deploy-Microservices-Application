@@ -36,7 +36,8 @@
   ![image](https://github.com/user-attachments/assets/67c5b901-6937-4918-9632-402c913acb44)
 
 
-
+- Connected to the cluster
+- Created a Namespace and deployed all the micro services into it
 
   ![image](https://github.com/user-attachments/assets/bae43744-ea7e-46f8-bd22-4deec6bf6d1c)
 
