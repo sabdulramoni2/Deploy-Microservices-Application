@@ -12,9 +12,16 @@
 
 ## **Features**
 - Created YAML file with 11 Deployment and corresponding Service manifests
+- Configure the env variable and the end points (depending on if the service is talking to another service) for each microservice.
+- Configure readiness and liveness probe on each microservice (Note; for application that required longer time to start up you can set InitiaDelaySeconds parameters)
+- End point is servicename:service port
 - Created a K8s cluster with 3 Worker Nodes on Linode
+- Download the kubeconfig.yaml file to connect to the cluster.
+- Set permission on the file using chmod 400 “file name”
+- Set up the environmental variable using export in Linux and Set in windows
 - Connected to the cluster
-- Created a Namespace and deployed all the micro services into it
+- Created a Namespace and deployed all the micro services into it.
+- Deploy your application in the cluster (kubectl apply -f “file name”).
 - Accessed Online Shop with Browser
 
 
