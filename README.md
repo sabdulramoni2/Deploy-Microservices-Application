@@ -26,7 +26,7 @@
 
 
 
-## **Features**
+## Diagrammatic Presentation**
 - Created a Linode cluster
 
   ![image](https://github.com/user-attachments/assets/29ab5b29-fe39-4f8e-b442-d083aa8994f5)
