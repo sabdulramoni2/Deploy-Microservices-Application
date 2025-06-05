@@ -1,6 +1,6 @@
 # Deploy Microservices Application
 
-![image](https://github.com/user-attachments/assets/19e5a34b-2f55-44d0-9b65-eb6b5b82e6ff)
+
 
 
 
@@ -8,6 +8,7 @@
 ## **Project Overview**
 **Online Boutique** is a cloud-first microservices demo application. Online Boutique consists of an 11-tier microservices application. The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.
 
+![image](https://github.com/user-attachments/assets/19e5a34b-2f55-44d0-9b65-eb6b5b82e6ff)
 
 ---
 
